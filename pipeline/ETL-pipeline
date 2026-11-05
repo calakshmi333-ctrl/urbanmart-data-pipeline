@@ -1,0 +1,3 @@
+pipeline/extract.py,
+pipeline/transform.py, pipeline/load.py, tests/test_extract.py, docs/architecture.md, .gitignore,
+requirements.txt
